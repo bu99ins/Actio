@@ -1,0 +1,8 @@
+src/Actio.Api/obj
+src/Actio.Api/bin
+src/Actio.Common/obj
+src/Actio.Common/bin
+src/Actio.Services.Activities/obj
+src/Actio.Services.Activities/bin
+src/Actio.Services.Identity/obj
+src/Actio.Services.Identity/bin
